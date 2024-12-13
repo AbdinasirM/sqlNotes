@@ -1,0 +1,1 @@
+--INNER JOIN : returns matching records unmatched data is ignored
